@@ -114,9 +114,9 @@ Analyses complémentaires pour préciser à quoi devrait ressembler notre futur 
 
 Warning : dataset de base pas réaliste c’est un dataset d’entraînement 
 
+Google Trends Glimpse Chrome extension pour avoir le nb en valeur absolue
 
-
-Capture écran tableau splitter en 4 et mettre côte à côte
+Capture écran tableau splitter en 2 et mettre côte à côte
 
 
 
