@@ -30,5 +30,5 @@ Dans ce contexte en pleine évolution, les besoins en analyse de données sont n
 ### :blush: Comment me contacter ?
 
 🔗 [Mon LinkedIn](http://www.linkedin.com/in/héloïse-van-renterghem/)<br>
-👩🏻‍🦱 [Mon CV](https://github.com/HeloGlow/Portfolio/blob/main/%C3%80%20propos%20de%20moi/CV%20H%C3%A9lo%C3%AFse%20Van%20Renterghem%202025.pdf)# Portfolio_fr
+💼 [Mon CV](https://github.com/HeloGlow/Portfolio/blob/main/%C3%80%20propos%20de%20moi/CV%20H%C3%A9lo%C3%AFse%20Van%20Renterghem%202025.pdf)# Portfolio_fr
 Mon portfolio de Data analyse
