@@ -2,7 +2,7 @@
 
 ## 🧩 Problématique :
 
-HéloGlow va bientôt ouvrir un nouveau magasin au sein d’un centre commercial. Nous avons obtenu des données sur la clientèle du centre, et nous souhaitons les utiliser pour créer des clusters afin de mieux comprendre notre future potentielle clientèle. Ainsi, nous serons en mesure d'optimiser l’assortiment, d'activer les bons leviers marketing et de personnaliser la communication auprès des cibles.
+HéloGlow s'apprête à ouvrir un nouveau magasin dans un centre commercial. Nous avons obtenu des données sur la clientèle du centre, et nous souhaitons les utiliser pour créer des clusters afin de mieux comprendre notre future potentielle clientèle. Ainsi, nous serons en mesure d'optimiser l’assortiment, d'activer les bons leviers marketing et de personnaliser la communication auprès des cibles.
 
 ## ⚙️ Démarche :
 
@@ -16,8 +16,7 @@ J'ai réalisé l'analyse en Python sur un Jupyter Notebook, en détaillant et ex
 - Vérification des données
 - Création de nouveaux champs
 - Réduction de dimensions avec une ACP (Analyse en Composantes Principales)
-- Clustering K-means
-- Clustering hiérarchique
+- Clustering K-means et hiérarchique
 
 ### 3) Détermination de portraits-robots et personas
 
