@@ -11,7 +11,7 @@ Le programme de fidélité "Carte Glow" étant un levier clé pour booster nos r
 
 Ne trouvant pas de dataset public et gratuit répondant à mon besoin d'analyse, j'ai créé moi-même des données réalistes et comprenant tous les indicateurs que je souhaitais mettre en avant.
 
-### 2) Préparation d'un Excel automatisé
+### 2) Construction d'un Excel automatisé
 
 Mon premier reporting prend la forme d'une newsletter mensuelle automatisée sur Excel.
 Un onglet de dataset brut (à mettre à jour mensuellement pour inclure les données du dernier mois) alimente une newsletter mise en forme et prête à être transmise aux collaborateurs. Il suffit juste de sélectionner le mois concerné par l'analyse pour que tous les graphiques et textes explicatifs s'actualisent.
