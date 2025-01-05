@@ -18,7 +18,7 @@ Deux onglets de datasets bruts (à mettre à jour mensuellement pour inclure les
 
 ### 3) Réalisation d'un dashboard sur Looker Studio
 
-Certaines équipes pouvant avoir des besoins plus spécifiques que ceux couverts par la newsletter, j'ai créé un dashboard Looker interactif permettant de filtrer les données par mois, pays, canal de vente et/ou profil client.
+Certaines équipes pouvant avoir des besoins plus spécifiques que ceux couverts par la newsletter, j'ai mis en place un dashboard Looker interactif permettant de filtrer les données par mois, pays, canal de vente et/ou profil client.
 
 ## 🗂️ Livrables :
 
