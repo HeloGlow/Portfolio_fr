@@ -6,7 +6,7 @@ Dans un secteur aussi compétitif que celui des cosmétiques, il est essentiel p
 
 ## ⚙️ Démarche :
 
-### 1) Recherche d’un dataset 
+### 1) Recherche de datasets
 
 J'ai trouvé sur Kaggle un dataset pouvant coller à ce scénario : [Top Beauty & Cosmetics Products Worldwide 2024](https://www.kaggle.com/datasets/waqi786/most-used-beauty-cosmetics-products-in-the-world). Attention, il s'agit d'un dataset d'entraînement, qui ne reflète pas la réalité.
 
@@ -16,6 +16,8 @@ Par ailleurs, j'ai complété mon analyse avec des données Google Trends. Pour 
 
 En sql sur dataiku Vérification des données, modification de la table initiale à l’aide d’un script puis traitement des données pour obtenir les tables de sortie qui alimenteront notre rendu
 
+[Mon LinkedIn](http://www.linkedin.com/in/héloïse-van-renterghem/)<br>
+
 ### 3) Réalisation d'un dashboard sur Tableau
 
 Dashboard sur tableau 
@@ -24,15 +26,13 @@ Vue d’ensemble du marché et redonner les noms des parties
 
 Analyses complémentaires pour préciser à quoi devrait ressembler notre futur produit 
 
-## 🗂️ Livrables :
+## 🗂️ Livrable : le dashboard Tableau
 
-**Livrable 1) : le dashboard Tableau**
+Téléchargeable sur mon GitHub : [Fichier Tableau](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_fr.twbx)<br>
 
-
-https://public.tableau.com/app/profile/h.lo.se.vrt/viz/HeloGlow_Projet2_Page1/Vuedensembledumarch
-https://public.tableau.com/app/profile/h.lo.se.vrt/viz/HeloGlow_Projet2_Page2/Notrefuturproduit
-
-
+Consultable en ligne sur Tableau Public :
+[1) Vue d'ensemble du marché](https://public.tableau.com/app/profile/h.lo.se.vrt/viz/HeloGlow_Projet2_Page1/Vuedensembledumarch) - 
+[2) Notre futur produit](https://public.tableau.com/app/profile/h.lo.se.vrt/viz/HeloGlow_Projet2_Page2/Notrefuturproduit)<br>
 
 <img src="https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_Page1.png?raw=true">
 <img src="https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_Page2.png?raw=true">
