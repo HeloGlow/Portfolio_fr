@@ -25,9 +25,11 @@ Suite au clustering, j'ai précisé les portraits-robots des différents types d
 
 ## 🗂️ Livrables :
 
-**Livrable 1) : la newsletter automatisée sur Excel**
+**Livrable 1) : le Jupyter Notebook du clustering**
 
-**Livrable 2) : identification de personas et priorisation des cibles**
+[Jupyter Notebook](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_3/HeloGlow_clustering_clients.ipynb)
+
+**Livrable 2) : l'identification de personas et la priorisation des cibles**
 
 **🎯 Cible principale : le 2<sup>e</sup> cluster**
 
