@@ -1,4 +1,4 @@
-# Projet 1️⃣ : Reporting et dashboard automatisés sur les performances du programme de fidélité
+# Projet 1️⃣ : Reporting automatisé sur les performances du programme de fidélité
 
 ## 🧩 Problématique :
 
@@ -16,16 +16,5 @@ Ne trouvant pas de dataset public et gratuit répondant à mon besoin d'analyse,
 Mon premier reporting prend la forme d'une newsletter mensuelle automatisée sur Excel.
 Deux onglets de datasets bruts (à mettre à jour mensuellement pour inclure les données du dernier mois) alimentent une newsletter mise en forme et prête à être transmise aux collaborateurs. Il suffit juste de sélectionner le mois concerné par l'analyse pour que tous les graphiques et textes explicatifs s'actualisent.
 
-### 3) Réalisation d'un dashboard sur Looker Studio
+## 🗂️ Livrable : la newsletter automatisée sur Excel**
 
-Certaines équipes pouvant avoir des besoins plus spécifiques que ceux couverts par la newsletter, j'ai mis en place un dashboard Looker interactif permettant de filtrer les données par mois, pays, canal de vente et/ou profil client.
-
-## 🗂️ Livrables :
-
-**Livrable 1) : la newsletter automatisée sur Excel**
-
-Capture d’écran de la NL
-
-**Livrable 2) : le dashboard Looker**
-
-capture d'écran ?
