@@ -14,17 +14,15 @@ Par ailleurs, j'ai complété mon analyse avec des données Google Trends. Pour 
 
 ### 2) Vérification et traitement des données en SQL sur Dataiku
 
-En sql sur dataiku Vérification des données, modification de la table initiale à l’aide d’un script puis traitement des données pour obtenir les tables de sortie qui alimenteront notre rendu
+Après avoir importé mon dataset Kaggle dans Dataiku, j'ai effectué des vérifications et des corrections sur la table initiale à l’aide d’un script SQL.
 
-[Mon LinkedIn](http://www.linkedin.com/in/héloïse-van-renterghem/)<br>
+Ensuite, j'ai manipulé les données en SQL pour générer les tables nécessaires à l'alimentation du dashboard Tableau. Les étapes détaillées sont présentées ici sous forme de codes commentés : [SQL](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/SQL_Dataiku_Projet_2).<br>
 
 ### 3) Réalisation d'un dashboard sur Tableau
 
-Dashboard sur tableau 
-
-Vue d’ensemble du marché et redonner les noms des parties 
-
-Analyses complémentaires pour préciser à quoi devrait ressembler notre futur produit 
+Avec Tableau Desktop, j'ai construit un dashboard en deux parties :
+- Une vue d'ensemble du marché, présentant les chiffres clés du secteur des cosmétiques, les principales forces en présence, ainsi qu'une analyse par catégorie (avec des filtres dynamiques)
+- Des analyses complémentaires pour déterminer quel nouveau produit nous devrions commercialiser : satisfaction par type de client, identification de niches de marché à combler, choix de la formulation, du packaging, du pricing, de la période idéale pour le lancement..."
 
 ## 🗂️ Livrable : le dashboard Tableau
 
