@@ -1,4 +1,4 @@
-# Projet 3️⃣ : Reporting et dashboard automatisés sur les performances du programme de fidélité
+# Projet 3️⃣ : Clustering de clients potentiels selon des critères démographiques et économiques
 
 ## 🧩 Problématique :
 
