@@ -11,12 +11,15 @@ On va ouvrir nouveau magasin au sein d’un centre commercial. L’entreprise qu
 
 
 Étape préalable : recherche d’un dataset sur kaggle qui puisse coller à ce scénario.
-
+Mall Customers Segmentation
 Donner le lien 
+
+https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation
 
 ### 2) Clustering en Python
 
 Clustering sur Jupyter notebook, les étapes sont détaillées et expliquées dans le code
+https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_3/HeloGlow_clustering_clients.ipynb
 
 ### 3) Portrait-robot et persona
 
