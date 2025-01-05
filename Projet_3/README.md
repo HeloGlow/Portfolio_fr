@@ -12,10 +12,12 @@ J'ai trouvé sur Kaggle un dataset se prêtant bien à cette analyse : [Mall Cus
 
 ### 2) Clustering en Python
 
-J'ai réalisé l'analyse en Python sur un Jupyter Notebook : [Code Python](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_3/HeloGlow_clustering_clients.ipynb)
-Clustering sur Jupyter notebook, les étapes sont détaillées et expliquées dans le code
-https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_3/HeloGlow_clustering_clients.ipynb
-Nous souhaitons créer des clusters de clients afin de mieux comprendre notre future potentielle clientèle. Ainsi, nous serons en mesure d'optimiser l’assortiment, d'activer les bons leviers marketing et de personnaliser la communication auprès des cibles.
+J'ai réalisé l'analyse en Python sur un Jupyter Notebook, en détaillant et expliquant chaque étape : [code Python](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_3/HeloGlow_clustering_clients.ipynb)
+- Vérification des données
+- Création de nouveaux champs
+- Réduction de dimensions avec une ACP (Analyse en Composantes Principales)
+- Clustering K-means
+- Clustering hiérarchique
 
 ### 3) Détermination de portraits-robots et personas
 
