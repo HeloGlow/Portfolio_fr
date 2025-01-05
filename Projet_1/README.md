@@ -1,17 +1,17 @@
-test
+# Projet 1 : Reporting et dashboard automatisés sur les performances du programme de fidélité
 
 
-Problématique :
+## Problématique :
 
 Monitorer les performances du programme de fidélité afin de s’assurer qu’il soit toujours pertinent et course correct si on remarque un décrochage.
 
 
 
-Demarche :
+## Demarche :
 
 
 
-Étape préalable : Création d’un dataset
+# Étape préalable : Création d’un dataset
 
 J’ai créé moi-même des datasets réalistes et comprenant les indicateurs que je voulais mettre en avant 
 
@@ -35,7 +35,7 @@ Possibilité de sélectionner le mois et tout se met à jour automatiquement
 
 
 
-Livrable :
+## Livrables :
 
 L’excel 
 
