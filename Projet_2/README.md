@@ -2,7 +2,7 @@
 
 ## 🧩 Problématique :
 
-Analyser le secteur des cosmétiques pour mieux comprendre le marché auquel on appartient et en tirer des insights utiles pour HeloGlow. Identifier des tendances clés, des besoins non satisfaits… permet de savoir quels types de produits développer.
+Dans un secteur aussi compétitif que celui des cosmétiques, il est essentiel pour HéloGlow de bien comprendre son marché pour innover et se démarquer. Notre objectif est donc d'analyser en profondeur les dynamiques du secteur, d'identifier les tendances clés et de repérer les besoins non satisfaits. Ces insights permettront d’orienter le développement de nouveaux produits adaptés aux attentes des consommateurs.
 
 ## ⚙️ Démarche :
 
