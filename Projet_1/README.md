@@ -11,7 +11,7 @@ Monitorer les performances du programme de fidélité afin de s’assurer qu’i
 
 
 
-# Étape préalable : Création d’un dataset
+### Étape préalable : Création d’un dataset
 
 J’ai créé moi-même des datasets réalistes et comprenant les indicateurs que je voulais mettre en avant 
 
