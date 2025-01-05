@@ -2,28 +2,23 @@
 
 ## 🧩 Problématique :
 
-On va ouvrir nouveau magasin au sein d’un centre commercial. L’entreprise qui gère le centre commercial nous partage des données sur la clientèle du centre : critère socio économique DÉMOGRAPHIQUE et un score de dépense calculé sur l’ensemble de leurs achats passés dans les boutiques du centre. D’après ces données, on veut créer un clustering pour identifier et comprendre qui seront les futurs acheteurs potentiels de notre magasin. Ainsi nous pourrons mieux penser notre assortiment et adapter notre communication venant de ce nouveau point de vente.
+HéloGlow va bientôt ouvrir un nouveau magasin au sein d’un centre commercial. Nous avons obtenu des données sur la clientèle du centre, et nous souhaitons les utiliser pour créer des clusters. En identifiant des groupes distincts de clients ayant des profils et comportements similaires,  deidentifier et comprendre qui seront les futurs acheteurs potentiels de notre magasin. Ainsi nous pourrons mieux penser notre assortiment et adapter notre communication venant de ce nouveau point de vente.
 
 
 ## ⚙️ Démarche :
 
 ### 1) Recherche d’un dataset
 
-
-Étape préalable : recherche d’un dataset sur kaggle qui puisse coller à ce scénario.
-Mall Customers Segmentation
-Donner le lien 
-
-https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation
+J'ai trouvé sur Kaggle un dataset se prêtant bien à cette analyse : [Mall Customers Segmentation](https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation). Il contient une liste de clients d'un centre commercial, avec leurs caractéristiques démographiques, leur revenu annuel et leur score de dépenses.
 
 ### 2) Clustering en Python
 
 Clustering sur Jupyter notebook, les étapes sont détaillées et expliquées dans le code
 https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_3/HeloGlow_clustering_clients.ipynb
 
-### 3) Portrait-robot et persona
+### 3) Détermination de portraits-robots et personas
 
-3 clusters auxquels on peut associer des personas et choisir lequel sera notre cible prioritaire 
+Suite au clustering, j'ai précisé les portraits-robots des différents types de clients potentiels et je leur ai donné vie au travers de personas. J'ai également déterminé les cibles prioritaires.
 
 ## 🗂️ Livrables :
 
