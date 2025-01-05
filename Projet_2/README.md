@@ -16,7 +16,7 @@ Par ailleurs, j'ai complété mon analyse avec des données Google Trends. Pour 
 
 Après avoir importé mon dataset Kaggle dans Dataiku, j'ai effectué des vérifications et des corrections sur la table initiale à l’aide d’un script SQL.
 
-Ensuite, j'ai manipulé les données en SQL pour générer les tables nécessaires à l'alimentation du dashboard Tableau. Les étapes détaillées sont présentées ici sous forme de codes commentés : [SQL](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/SQL_Dataiku_Projet_2).<br>
+Ensuite, j'ai manipulé les données en SQL pour générer les tables nécessaires à l'alimentation du dashboard Tableau. Les étapes détaillées sont présentées ici sous forme de codes commentés : [codes SQL](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/SQL_Dataiku_Projet_2).<br>
 
 ### 3) Réalisation d'un dashboard sur Tableau
 
