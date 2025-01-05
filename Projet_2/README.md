@@ -8,16 +8,9 @@ Dans un secteur aussi compétitif que celui des cosmétiques, il est essentiel p
 
 ### 1) Recherche d’un dataset 
 
+J'ai trouvé sur Kaggle un dataset pouvant coller à ce scénario : [Top Beauty & Cosmetics Products Worldwide 2024](https://www.kaggle.com/datasets/waqi786/most-used-beauty-cosmetics-products-in-the-world). Attention, il s'agit d'un dataset d'entraînement, qui ne reflète pas la réalité.
 
-sur kaggle qui puisse coller à ce scénario.
-
-Donner le lien 
-
-Google trends 
-
-Warning : dataset de base pas réaliste c’est un dataset d’entraînement 
-
-Google Trends Glimpse Chrome extension pour avoir le nb en valeur absolue
+Par ailleurs, j'ai complété mon analyse avec des données Google Trends. Pour récupérer la volumétrie des recherches en valeur absolue, j'ai utilisé l'extension Chrome "Google Trends Glimpse".
 
 ### 2) Vérification et traitement des données en SQL sur Dataiku
 
