@@ -1,19 +1,15 @@
-# Projet 1 : Reporting et dashboard automatisés sur les performances du programme de fidélité
-
+# Projet 1️⃣ : Reporting et dashboard automatisés sur les performances du programme de fidélité
 
 ## Problématique :
 
-Monitorer les performances du programme de fidélité afin de s’assurer qu’il soit toujours pertinent et course correct si on remarque un décrochage.
+Le programme de fidélité "Carte Glow" étant un levier clé pour booster nos revenus, il est crucial de monitorer ses performances. Un suivi pertinent et régulier permet non seulement d'évaluer son efficacité et d’identifier des opportunités d’amélioration, mais aussi de réagir rapidement en cas de décrochage.
 
 
+## Démarche :
 
-## Demarche :
+### 1) Création d’un dataset
 
-
-
-### Étape préalable : Création d’un dataset
-
-J’ai créé moi-même des datasets réalistes et comprenant les indicateurs que je voulais mettre en avant 
+Ne trouvant pas de dataset public et gratuit répondant à mon besoin d'analyse, j'ai créé moi-même des données réalistes et comprenant tous les indicateurs que je souhaitais mettre en avant.
 
 
 
