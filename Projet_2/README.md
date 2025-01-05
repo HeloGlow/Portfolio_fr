@@ -1,4 +1,4 @@
-# Projet 2️⃣ : Reporting et dashboard automatisés sur les performances du programme de fidélité
+# Projet 2️⃣ : Analyse du secteur des cosmétiques pour déterminer quel type de produit lancer sur le marché
 
 ## 🧩 Problématique :
 
