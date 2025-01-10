@@ -26,12 +26,12 @@ Avec Tableau Desktop, j'ai construit un dashboard en deux parties :
 
 ## 🗂️ Livrable : le dashboard Tableau
 
-Téléchargeable sur mon GitHub : [Fichier Tableau](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_fr.twbx)<br>
+- Téléchargeable sur mon GitHub : [Fichier Tableau](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_fr.twbx)<br>
 
-Consultable en ligne sur Tableau Public :
+- Consultable en ligne sur Tableau Public :
 [1) Vue d'ensemble du marché](https://public.tableau.com/app/profile/h.lo.se.vrt/viz/HeloGlow_Projet2_Page1/Vuedensembledumarch) - 
 [2) Notre futur produit](https://public.tableau.com/app/profile/h.lo.se.vrt/viz/HeloGlow_Projet2_Page2/Notrefuturproduit)<br>
 
-Au format image (non modifiable) ci-dessous :
+- Au format image (non modifiable) ci-dessous :
 <img src="https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_Page1.png?raw=true">
 <img src="https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_2/HeloGlow_Tableau_Page2.png?raw=true">
