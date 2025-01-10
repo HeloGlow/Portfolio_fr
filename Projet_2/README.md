@@ -22,7 +22,7 @@ Ensuite, j'ai manipulé les données en SQL pour générer les tables nécessair
 
 Avec Tableau Desktop, j'ai construit un dashboard en deux parties :
 - Une vue d'ensemble du marché, présentant les chiffres clés du secteur des cosmétiques, les principales forces en présence, ainsi qu'une analyse par catégorie (avec des filtres dynamiques)
-- Des analyses complémentaires pour déterminer quel nouveau produit nous devrions commercialiser : satisfaction par type de client, identification de niches de marché à combler, choix de la formulation, du packaging, du pricing, de la période idéale pour le lancement..."
+- Des analyses complémentaires pour déterminer quel nouveau produit commercialiser : satisfaction par type de client, identification de niches de marché à combler, choix de la formulation, du packaging, du pricing, de la période idéale pour le lancement..."
 
 ## 🗂️ Livrable : le dashboard Tableau
 
