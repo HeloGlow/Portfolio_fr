@@ -18,6 +18,7 @@ Un onglet de dataset brut (à mettre à jour mensuellement pour inclure les donn
 
 ## 🗂️ Livrable : la newsletter automatisée sur Excel
 
-Téléchargeable sur mon GitHub : [Fichier Excel](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_1/Reporting%20mensuel%20H%C3%A9loGlow.xlsx)<br>
+- Téléchargeable sur mon GitHub : [Fichier Excel](https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_1/Reporting%20mensuel%20H%C3%A9loGlow.xlsx)<br>
 
+- Au format image (non modifiable) ci-dessous :
 <img src="https://github.com/HeloGlow/Portfolio_fr/blob/main/Projet_1/Newsletter_HeloGlow.png?raw=true">
