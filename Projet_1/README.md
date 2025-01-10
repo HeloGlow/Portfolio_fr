@@ -14,7 +14,7 @@ Ne trouvant pas de dataset public et gratuit répondant à mon besoin d'analyse,
 ### 2) Construction d'un Excel automatisé
 
 Mon premier reporting prend la forme d'une newsletter mensuelle automatisée sur Excel.
-Un onglet de dataset brut (à mettre à jour mensuellement pour inclure les données du dernier mois) alimente une newsletter mise en forme et prête à être transmise aux collaborateurs. Il suffit juste de sélectionner le mois concerné par l'analyse pour que tous les graphiques et textes explicatifs s'actualisent.
+Un onglet de dataset brut (à mettre à jour mensuellement pour inclure les données du dernier mois) alimente une newsletter mise en forme et prête à être transmise aux collaborateurs. Il suffit de sélectionner le mois concerné par l'analyse pour que tous les graphiques et textes explicatifs s'actualisent.
 
 ## 🗂️ Livrable : la newsletter automatisée sur Excel
 
